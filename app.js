@@ -22,4 +22,4 @@ function fromYenToPound(yen) {
     return euros * oneEuroIs["GBP"];
 }
 
-module.exports = {fromEuroToDollar }
+module.exports = {fromEuroToDollar }.
